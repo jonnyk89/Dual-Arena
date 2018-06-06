@@ -1,0 +1,9 @@
+C:\Users\nn\Desktop\SoftUni Preparation\RPG\Dual-Arena\RPG\bin\Debug\RPG.exe.config
+C:\Users\nn\Desktop\SoftUni Preparation\RPG\Dual-Arena\RPG\obj\Debug\RPG.exe
+C:\Users\nn\Desktop\SoftUni Preparation\RPG\Dual-Arena\RPG\obj\Debug\RPG.pdb
+C:\Users\nn\Desktop\SoftUni Preparation\RPG\Dual-Arena\RPG\bin\Debug\RPG.exe
+C:\Users\nn\Desktop\SoftUni Preparation\RPG\Dual-Arena\RPG\bin\Debug\RPG.pdb
+C:\Users\nn\Desktop\SoftUni Preparation\RPG\Dual-Arena\RPG\obj\Debug\DualArena.csprojResolveAssemblyReference.cache
+C:\Users\nn\Desktop\SoftUni Preparation\RPG\RPG\bin\Debug\RPG.exe.config
+C:\Users\nn\Desktop\SoftUni Preparation\RPG\RPG\obj\Debug\RPG.exe
+C:\Users\nn\Desktop\SoftUni Preparation\RPG\RPG\obj\Debug\RPG.pdb

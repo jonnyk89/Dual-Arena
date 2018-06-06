@@ -1,0 +1,39 @@
+Game rules: 
+This is a round-based game.
+Every time a command needs to be given, it is pointed out with this '>'.
+The commands "Stats" and "Rules" (not case sensitive) do not consume a round.
+If a command does not exist, you will be asked to give another command.
+If a command can not be completed due to lack of mana, a round will be wasted on your part.
+The game ends once one of the characters drops at or below 0 health.
+----------------------------------------------------
+Player stats: 
+Health = 100
+Attack = 10 (can be increased)
+Mana = 200
+Health Potions = 1
+Mana Potions = 1
+----------------------------------------------------
+Player abilities: 
+Attack - deals 10 damage unless buffed
+Fireball - deals 30 damage, costs 50 mana
+Might - increases Player attack by 10, costs 100 mana
+Stun - makes Orc unable to attack, costs 50 mana, 3 round duration
+Debuff - decreases Orc attack by 5, costs 50 mana, 2 round duration
+Health Potion - gives player 50 health, can not go over 100 health
+Mana Potion - gives player 100 mana, can not go over 200 mana
+----------------------------------------------------
+Orc stats: 
+Health = 150
+Attack = 20 (can be buffed)
+Mana = 0
+----------------------------------------------------
+Orc Abilities: 
+Attack - deals 20 damage unless a critical strike is done
+*  The orc has a 15% chance to land a critical strike with each attack
+   If he does manage to land a critican strike, he will attack twice 
+   as hard that round (instead of 20 damage, he will do 40 damage).
+----------------------------------------------------
+Extra commands: 
+Status - shows the current stats of each character
+Rules - opens the file than contains the Rules for the game
+*  These commands do not consume a round.
